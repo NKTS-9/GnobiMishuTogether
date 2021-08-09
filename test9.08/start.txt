@@ -1,0 +1,31 @@
+git checkout master
+touch summ.sh
+echo " " > summ.sh
+git add summ.sh
+git commit -m "create empty script"
+git branch first
+git checkout first
+echo "#! /bin/bash/" >> summ.sh
+echo 'echo "Enter first digit: "' >> summ.sh
+echo "read a" >> summ.sh
+git add summ.sh
+git commit -m "first part"
+git branch second
+git checkout second 
+echo 'echo "Enter second digit: "' >> summ.sh
+echo "read b" >> summ.sh
+git add summ.sh
+git commit -m "second part"
+git branch final
+git checkout final
+echo 'c=$(($a + $b))' >> summ.sh
+echo 'echo "$a + $b = $c"' >> summ.sh
+git add summ.sh
+git commit -m "final part"
+git checkout master
+git merge first
+git merge second
+git merge final
+bash summ.sh
+
+
