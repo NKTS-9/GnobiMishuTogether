@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1623768075 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/23.04/src/anime.cpp
+	"anime.h"
+
+1623767895 /net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/23.04/include/anime.h
+	<literatura.h>
+
+1623767532 /net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/23.04/include/literatura.h
+	<iostream>
+
+1623767419 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/23.04/src/literatura.cpp
+	"literatura.h"
+	<iostream>
+
+1623767625 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/23.04/main.cpp
+	<iostream>
+	"literatura.h"
+	"anime.h"
+	"manga.h"
+	"ranobe.h"
+
+1623768332 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/23.04/src/manga.cpp
+	"manga.h"
+	<iostream>
+
+1623768461 /net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/23.04/include/manga.h
+	<literatura.h>
+
+1623765450 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/23.04/src/ranobe.cpp
+	"ranobe.h"
+
+1623768538 /net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/23.04/include/ranobe.h
+	<literatura.h>
+
+1623767625 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/lab_t34c/main.cpp
+	<iostream>
+	"literatura.h"
+	"anime.h"
+	"manga.h"
+	"ranobe.h"
+
+1623767532 /net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/lab_t34c/include/literatura.h
+	<iostream>
+
+1623767895 /net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/lab_t34c/include/anime.h
+	<literatura.h>
+
+1623768461 /net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/lab_t34c/include/manga.h
+	<literatura.h>
+
+1623768538 /net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/lab_t34c/include/ranobe.h
+	<literatura.h>
+
+1623768075 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/lab_t34c/src/anime.cpp
+	"anime.h"
+
+1623767419 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/lab_t34c/src/literatura.cpp
+	"literatura.h"
+	<iostream>
+
+1623768332 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/lab_t34c/src/manga.cpp
+	"manga.h"
+	<iostream>
+
+1623768784 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts91/ikts91n13/lab_t34c/src/ranobe.cpp
+	"ranobe.h"
+
